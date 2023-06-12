@@ -1,0 +1,72 @@
+{
+  "projectList": [
+    {
+      "id": 1,
+      "title": "A Tribute Page 2",
+      "description": "The simplest website you can make as a beginner is a tribute page of someone you admire in your life. It requires only basic knowledge of HTML and CSS. Make a webpage writing about that person adding his/her image. On the top of the webpage, add the image and name of the person and below that give layout for the rest of the details. ",
+      "image": "https://picsum.photos/200/100",
+      "url": "https://seta-international.com/"
+    },
+    {
+      "id": 2,
+      "title": "Webpage Including Form",
+      "description": " You can use paragraphs, lists, links, images with CSS to give it a descent look. Add a suitable background color and font style on your webpage. Most of the parts you can make using HTML but to give it a better look using a bit of CSS. Take help from the link given below.",
+      "image": "https://picsum.photos/200/100/?blur",
+      "url": "https://seta-international.com/",
+      "repository": "https://github.com/sontv"
+    },
+    {
+      "id": 3,
+      "title": "Take help from",
+      "description": " How to use a text field, checkbox, radio button, date, and other important elements in a single form. You will be learning how to give a proper structure to a webpage while creating a form. Knowledge of HTML/HTML5 is good enough but you can use a bit of CSS to make the project look better. Take help from the links given below. ",
+      "image": "https://picsum.photos/id/870/200/100?grayscale&blur=2",
+      "url": "https://seta-international.com/",
+      "repository": "https://github.com/sontv"
+    },
+    {
+      "id": 4,
+      "title": "essential",
+      "description": "Forms are always an essential part of any project and you will be working with a lot of forms in most of the applications so why not practice it earlier and test your knowledge. Once you get familiar with the input field or basic tags in HTML to create a form make a project using all those tags. ",
+      "image": "https://picsum.photos/200/100",
+      "url": "https://seta-international.com/",
+      "repository": "https://github.com/sontv"
+    },
+    {
+      "id": 5,
+      "title": "Parallax Website 1",
+      "description": "Forms are always an essential part of any project and you will be working with a lot of forms in most of the applications so why not practice it earlier and test your knowledge. Once you get familiar with the input field or basic tags in HTML to create a form make a project using all those tags. ",
+      "image": "https://picsum.photos/id/237/200/100",
+      "url": "https://seta-international.com/"
+    },
+    {
+      "title": "Restaurant Website",
+      "description": "Showcase your solid knowledge of HTML and CSS creating a beautiful webpage for a restaurant. Making a layout for a restaurant will be a bit complicated than previous project examples.",
+      "image": "https://picsum.photos/200/100",
+      "id": 8
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "sontv",
+      "password": "123456",
+      "roleId": 1
+    },
+    {
+      "id": 2,
+      "username": "thienth",
+      "password": "123456",
+      "roleId": 1
+    }
+  ],
+  "role": [
+    {
+      "id": 1,
+      "name": "admin"
+    },
+    {
+      "id": 2,
+      "name": "user"
+    }
+  ]
+}
